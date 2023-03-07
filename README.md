@@ -4,8 +4,6 @@ This project was a challenge for the internship position at db.
 
 I made this project using JavaScript, it's a hangman game with tests for validation.
 
-# Instructions:
-
 ## Requirements:
 . Node JS installed
 
