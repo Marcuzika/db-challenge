@@ -1,4 +1,4 @@
-# <db> Challenge 🕹
+# < db > Challenge 🕹
 
 This project was a challenge for the internship position at db.
 
